@@ -1,1 +1,1 @@
-com.erkanozata.colordash, pub-50975382605696185, DIRECT, f08c47fec0942fa0
+google.com, pub-5097538260596185, DIRECT, f08c47fec0942fa0
